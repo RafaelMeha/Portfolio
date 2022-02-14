@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-page{
+    display: flex;
+    margin-left: 11%;
+}
+
+
+body{
+    background-color: rgb(252, 246, 238);
+}

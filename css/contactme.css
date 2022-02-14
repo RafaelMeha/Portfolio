@@ -1,0 +1,77 @@
+.contact-text{
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Open Sans', serif;
+    margin-top: 35px;
+    display: block;
+    width: 600px;
+    height: 80px;
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', serif;
+    font-size: 60px;
+}
+
+.contact-fuc{
+    display: flex;
+}
+
+#textAreaMessage{
+    border: none;
+    margin-top: 24px;
+    outline: 0;
+    color: #000;
+    margin-right: 2.5em;
+    margin-bottom: 0.85em;
+    margin-left: 2px;
+    width: 35rem;
+    background-color: wheat;
+    font-family: 'Open Sans', serif;
+    font-size: 15px;
+    resize: none;
+}
+
+#inputName{
+    width: 15.2rem;
+    background-color: wheat;
+    border: none;
+    padding: 13px;
+    outline: 0;
+    color: #000;
+    font-family: 'Open Sans', serif;
+    margin-right: 1rem;
+}
+
+#inputEmail{
+    padding: 13px;
+    width: 15.6rem;
+    outline: 0;
+    color: #000;
+    background-color: wheat;
+    border: none;
+    font-family: 'Open Sans', serif; 
+
+}
+
+.submit{
+    width: 14rem;
+    background-color: wheat;
+    border: none;
+    padding: 13px;
+    font-family: 'Open Sans', serif;
+    color: rgb(99, 99, 99);
+}
+
+form{
+    margin-top: 10px;
+}
+
+
+.contact-text{
+    margin-top: 30px;
+    height: 30px;
+    color: #000;
+}
